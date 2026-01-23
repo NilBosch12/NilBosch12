@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/nil-bosch-94a915352/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="mailto:https://mail.google.com/mail/u/0/#inbox?compose=new">
+<a href="mailto:nil.bosch@estudiant.enti.cat">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 </div>
