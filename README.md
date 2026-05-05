@@ -2,7 +2,7 @@
 <h3 align="center">Game Development Student 👾</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=NilBosch12&label=Profile%20Views&color=0e75b6&style=flat" alt="NilBosch12" />
+
 </p>
 
 ## 👨‍💻 About Me
