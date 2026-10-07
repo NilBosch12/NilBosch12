@@ -9,7 +9,7 @@
 
 - 🎓 I am currently studying **Disseny i desenvolupament de Videojocs** at [ENTI-UB](https://www.enti.cat/)
 - 🌍 Lives in **Barcelona, Spain**
-- ⚡ **Hobbies**: 🎮 Gaming | 🏋️ Gym | ✈️ Travel
+- ⚡ **Hobbies**: 🎮 Gaming | 🏋️ Gym | 👟 Running
 
 <br>
 
