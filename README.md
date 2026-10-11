@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nil Bosch Montalvo</h1>
 <h3 align="center">Game Development Student 👾</h3>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=NilBosch12&label=Profile%20Views&color=0e75b6&style=flat" alt="NilBosch12" />
-</p>
+
 
 ## 👨‍💻 About Me
 
@@ -21,6 +19,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unreal engine logo"  />
+  <img width="12" />
+
+
 </div>
 
 <br>
