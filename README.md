@@ -44,7 +44,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NilBosch12&show_icons=true&theme=radical&hide_border=true" alt="NilBosch12 Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=NilBosch12&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="NilBosch12 Stats" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=NilBosch12&theme=radical&hide_border=true" alt="NilBosch12 Streak" />
 <br>
